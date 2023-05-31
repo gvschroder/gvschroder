@@ -1,14 +1,14 @@
 ## Olá sou Guilherme Schröder, especialista em engenharia de dados e apaixonado programação e tecnologia!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="GCP" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/apache/airflow/master/docs/integration-logos/apache/spark.png">
-  <img align="center" alt="AWS" height="30" width="auto" src="https://airflow.apache.org/images/feature-image.png">
+  <img align="center" alt="AWS" title="AWS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="GCP" title="GCP" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Docker" title="Docker" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Jupyter" title="Jupyter" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bash" title="Bash" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Spark" title="Spark" height="30" width="auto" src="https://raw.githubusercontent.com/apache/airflow/master/docs/integration-logos/apache/spark.png">
+  <img align="center" alt="Airflow" title="Airflow" height="30" width="auto" src="https://airflow.apache.org/images/feature-image.png">
 </div>
 
 ##
