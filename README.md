@@ -1,5 +1,5 @@
-
-# **Especialista em Engenharia de Dados & Arquitetura de Software**
+# Guilherme Vinicius Schröder
+### **Especialista em Engenharia de Dados & Arquitetura de Software**
 
 Sou um profissional apaixonado por **engenharia de dados, arquitetura de software e soluções escaláveis**.  
 Atuo liderando times, evoluindo plataformas de dados e construindo soluções que equilibram **estratégia, governança e performance**.
