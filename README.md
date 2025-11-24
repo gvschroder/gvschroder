@@ -1,5 +1,5 @@
 
-# 🚀 **Guilherme Schröder**
+# **Guilherme Schröder**
 ### **Especialista em Engenharia de Dados & Arquitetura de Software**
 
 Sou um profissional apaixonado por **engenharia de dados, arquitetura de software e soluções escaláveis**.  
@@ -7,7 +7,7 @@ Atuo liderando times, evoluindo plataformas de dados e construindo soluções qu
 
 ---
 
-## 🧩 **Principais Competências**
+## **Principais Competências**
 
 - Engenharia de Dados · Lakehouse · Databricks · Delta Lake  
 - Arquitetura de Dados · Arquitetura de Software · Integrações  
@@ -18,7 +18,7 @@ Atuo liderando times, evoluindo plataformas de dados e construindo soluções qu
 
 ---
 
-## 🛠️ **Tecnologias & Ferramentas**
+## **Tecnologias & Ferramentas**
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
   <img alt="AWS" title="AWS"
@@ -41,7 +41,7 @@ Atuo liderando times, evoluindo plataformas de dados e construindo soluções qu
 
 ---
 
-## 📈 **O que você vai encontrar por aqui**
+## **O que você vai encontrar por aqui**
 
 - Projetos reais de **engenharia de dados**, pipelines e automações  
 - Arquiteturas em **Databricks, GCP, AWS e Lakehouse**  
@@ -51,7 +51,7 @@ Atuo liderando times, evoluindo plataformas de dados e construindo soluções qu
 
 ---
 
-## 🌐 **Conexões & Conteúdo**
+## **Conexões & Conteúdo**
 
 <div> 
   <a href="https://www.youtube.com/channel/UCULZGw6N50zMsc8F65whOGw" target="_blank">
@@ -73,6 +73,6 @@ Atuo liderando times, evoluindo plataformas de dados e construindo soluções qu
 
 ---
 
-## 💬 **Vamos conversar sobre dados, arquitetura e tecnologia**
+## **Vamos conversar sobre dados, arquitetura e tecnologia**
 
 Se quiser trocar ideias, colaborar em projetos ou falar sobre carreira — estou por aqui.
